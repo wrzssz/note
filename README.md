@@ -8,3 +8,4 @@
 | 2022.11.28 | [记录 ssh 会话](https://github.com/wrzssz/note/blob/main/2022.11.28.md) |
 | 2022.12.15 | [在 Mac mini 上安装 Windows 11](https://github.com/wrzssz/note/blob/main/2022.12.15.md) |
 | 2022.12.17 | [科学上网](https://github.com/wrzssz/note/blob/main/2022.12.17.md) |
+| 2022.12.20 | [Android无PC自动化](https://github.com/wrzssz/note/blob/main/2022.12.20.md) |
