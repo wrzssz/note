@@ -12,3 +12,4 @@
 | 2022.12.19 | [Windows 11 下获取system权限](https://github.com/wrzssz/note/blob/main/2022.12.19.md) |
 | 2022.12.20 | [Android无PC自动化](https://github.com/wrzssz/note/blob/main/2022.12.20.md) |
 | 2022.12.21 | [Windows上运行macOS](https://github.com/wrzssz/note/blob/main/2022.12.21.md) |
+| 2022.12.22 | [安装完Docker需要做的](https://github.com/wrzssz/note/blob/main/2022.12.22.md) |
