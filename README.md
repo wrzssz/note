@@ -15,3 +15,5 @@
 | 2022.12.22 | [安装完Docker需要做的](https://github.com/wrzssz/note/blob/main/2022.12.22.md) |
 | 2022.12.26 | [尝试一次LFS](https://github.com/wrzssz/note/blob/main/2022.12.26.md) |
 | 2022.12.27 | [去除网页中的html标签](https://github.com/wrzssz/note/blob/main/2022.12.27.md) |
+| 2022.12.31 | [Windows 11配置中文环境](https://github.com/wrzssz/note/blob/main/2022.12.31.md) |
+| 2023.01.01 | [制作Windows PE](https://github.com/wrzssz/note/blob/main/2023.01.01.md) |
