@@ -17,3 +17,6 @@
 | 2022.12.27 | [去除网页中的html标签](https://github.com/wrzssz/note/blob/main/2022.12.27.md) |
 | 2022.12.31 | [Windows 11配置中文环境](https://github.com/wrzssz/note/blob/main/2022.12.31.md) |
 | 2023.01.01 | [制作Windows PE](https://github.com/wrzssz/note/blob/main/2023.01.01.md) |
+| 2023.01.04 | [Windows 10免密码登录](https://github.com/wrzssz/note/blob/main/2023.01.04.md) |
+| 2023.01.05 | [Kali开机root自动登录](https://github.com/wrzssz/note/blob/main/2023.01.05.md) |
+| 2023.01.06 | [安装多版本python](https://github.com/wrzssz/note/blob/main/2023.01.06.md) |
