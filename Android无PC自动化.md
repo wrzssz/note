@@ -1,5 +1,5 @@
 # Android无PC自动化
-本文参考[Termux模拟器下python+uiautomator2](https://blog.csdn.net/CDaron/article/details/125698972)
+[参考](https://blog.csdn.net/CDaron/article/details/125698972)
 ### 配置Termux
 1. 在[F-Droid](https://f-droid.org/)下载[Termux](https://f-droid.org/zh_Hans/packages/com.termux/)和[Termux:Boot](https://f-droid.org/zh_Hans/packages/com.termux.boot/)并安装
 2. 手机上配置`Termux:Boot`和`Termux`开机启动，并允许后台运行

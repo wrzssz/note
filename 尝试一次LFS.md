@@ -1535,7 +1535,6 @@ wget -c -i ./wget-list-sysv -P $LFS/sources
     cd /sources && tar xf linux-5.19.2.tar.xz && cd linux-5.19.2
     make menuconfig
     # 按照10.3.1中Note配置config酌情增减
-    # 注意要带上SCSI相关驱动
     make
     make modules_install
 
